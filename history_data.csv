@@ -1,0 +1,74 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Moorhead, MN, United States",09/06/2021,85.8,54.3,68.9,,84.9,0,0,0,19.4,161.5,34,9.9,0,62.13,Clear
+"Moorhead, MN, United States",09/07/2021,78.1,55.2,65.8,,,0,0,0,21.9,292.33,32.6,9.9,9,57.44,Clear
+"Moorhead, MN, United States",09/08/2021,75.7,52.4,63.2,,,0,0,0,17.2,306.25,29.3,9.9,13.9,57.62,Clear
+"Moorhead, MN, United States",09/09/2021,76.8,46.2,61.8,47,,0,0,0,9.1,112.08,17.2,9.9,0,63,Clear
+"Moorhead, MN, United States",09/10/2021,84.5,58.8,69.7,,83.3,0,0,0,13.2,174.54,24.2,9.9,0,58.8,Clear
+"Moorhead, MN, United States",09/11/2021,72.5,56.8,64.6,,,0,0,0,21.6,170.71,31.7,9.9,8.9,55.04,Clear
+"Moorhead, MN, United States",09/12/2021,71,49.4,60.4,46.9,,0,0,0,9.5,205.17,12.8,9.9,27,58.25,Partially cloudy
+"Moorhead, MN, United States",09/13/2021,66.7,53.8,59.4,,,0.37,0,0,12.5,140.96,19.7,9.2,69.8,69.47,"Rain, Partially cloudy"
+"Moorhead, MN, United States",09/14/2021,73.9,51.1,60.9,,,0.02,0,0,15.2,290.67,24.3,9,47.2,65.67,"Rain, Partially cloudy"
+"Moorhead, MN, United States",09/15/2021,75.7,48.5,63.1,46.4,,0,0,0,20.5,174.33,35.2,9.9,23,62.23,Clear
+"Moorhead, MN, United States",09/16/2021,74.2,52.7,64.1,,,0,0,0,18.7,204.38,28.8,9.9,28.1,73.39,Partially cloudy
+"Moorhead, MN, United States",09/17/2021,69.3,46.2,57.5,44.7,,0,0,0,19,239.63,31,9.9,11.5,52.28,Clear
+"Moorhead, MN, United States",09/18/2021,78.3,47.6,64.1,45.5,,0,0,0,24.7,151.17,37,9.9,4,50.56,Clear
+"Moorhead, MN, United States",09/19/2021,82.6,70.4,75.9,,83.7,0,0,0,23.2,177.13,32.7,9.9,24.8,63.3,Clear
+"Moorhead, MN, United States",09/20/2021,72.7,53.8,58.5,,,0.24,0,0,22.7,318.58,37.2,9.4,65,81.57,"Rain, Partially cloudy"
+"Moorhead, MN, United States",09/21/2021,66.7,46.9,55.6,44.2,,0,0,0,12.1,292.96,21.9,9.9,13.5,66.49,Clear
+"Moorhead, MN, United States",09/22/2021,75,45.9,59.3,41.8,,0,0,0,21,180.67,31,9.9,0,53.07,Clear
+"Moorhead, MN, United States",09/23/2021,75.9,52,62.4,,,0,0,0,18.2,162.79,25,9.9,0,50.81,Clear
+"Moorhead, MN, United States",09/24/2021,63.5,47.1,58.4,43.4,,0,0,0,22.7,287.29,33.4,9.9,22.3,41.62,Clear
+"Moorhead, MN, United States",09/25/2021,76.9,42.6,56.8,39.1,,0,0,0,14.7,239,20.8,9.9,18.5,45.81,Clear
+"Moorhead, MN, United States",09/26/2021,83.8,52.2,65.6,,81.8,0,0,0,12.2,217.88,15,9.9,0,50.96,Clear
+"Moorhead, MN, United States",09/27/2021,80.2,45.1,63.4,44.4,79.4,0,0,0,12.8,125.42,24.2,9.9,0,56.37,Clear
+"Moorhead, MN, United States",09/28/2021,89.2,59.9,72.7,,86.8,0,0,0,21,155.67,30.4,9.9,0,48.8,Clear
+"Moorhead, MN, United States",09/29/2021,86.8,66,74.9,,84.9,0,0,0,17.2,160.04,30.4,9.9,0.1,51.75,Clear
+"Moorhead, MN, United States",09/30/2021,74.7,57.9,66.2,,,0.41,0,0,7.9,156.29,20.8,9.6,52.8,81.7,"Rain, Partially cloudy"
+"Moorhead, MN, United States",10/01/2021,66.7,56.3,61.7,,,0.1,0,0,10.9,304.75,,9.6,60.1,82.38,"Rain, Partially cloudy"
+"Moorhead, MN, United States",10/02/2021,71.8,51.4,60.4,,,0.23,0,0,10.4,311.25,16.1,9.5,50.6,73.19,"Rain, Partially cloudy"
+"Moorhead, MN, United States",10/03/2021,75,43.3,57.5,41.1,,0,0,0,6.2,148.38,,9.1,0.1,65.49,Clear
+"Moorhead, MN, United States",10/04/2021,80.9,47.2,62.1,43.6,79.7,0,0,0,7.7,128.67,,9.2,0,57.41,Clear
+"Moorhead, MN, United States",10/05/2021,81.3,55.3,67.2,,80,0,0,0,17.3,153.17,29.9,9.9,0,52.13,Clear
+"Moorhead, MN, United States",10/06/2021,76,57.1,66.2,,,0,0,0,18.4,157.58,29.1,9.9,0.1,63.42,Clear
+"Moorhead, MN, United States",10/07/2021,77.1,57.9,66.8,,,0,0,0,19.3,155.54,26.9,9.9,5.2,70.89,Clear
+"Moorhead, MN, United States",10/08/2021,77.3,61.9,67.6,,,0,0,0,13.6,134.58,17.2,9.1,26.9,77.72,Partially cloudy
+"Moorhead, MN, United States",10/09/2021,67.6,58.2,61.6,,,0.79,0,0,22.3,57.79,36.3,8,83,88.38,"Rain, Overcast"
+"Moorhead, MN, United States",10/10/2021,59.9,50,55.8,47.3,,0.07,0,0,18.9,201.92,31.6,9.5,89.1,87.17,"Rain, Overcast"
+"Moorhead, MN, United States",10/11/2021,65.6,41.3,52.4,37.5,,0,0,0,18.1,290.54,26.4,9.9,6.9,73.33,Clear
+"Moorhead, MN, United States",10/12/2021,57.7,36.4,47,29.8,,0,0,0,16.8,262.63,27.7,9.9,4.7,75.02,Clear
+"Moorhead, MN, United States",10/13/2021,58.2,48,53.4,44.3,,0.81,0,0,22.1,95,35.8,8.7,85.2,84.35,"Rain, Overcast"
+"Moorhead, MN, United States",10/14/2021,51,41,47.3,36.5,,0,0,0,23.2,237.54,32.4,9.9,71.5,76.98,Partially cloudy
+"Moorhead, MN, United States",10/15/2021,48.5,38.3,43.8,32.7,,0.04,0,0,19,272.21,25.3,9.9,59,75.29,"Rain, Partially cloudy"
+"Moorhead, MN, United States",10/16/2021,62.2,33.6,45.3,28.9,,0,0,0,12.9,263.17,18.2,9.9,0,64.87,Clear
+"Moorhead, MN, United States",10/17/2021,68.1,35.5,50.3,29.8,,0,0,0,12.1,155.92,15,9.9,0,66.41,Clear
+"Moorhead, MN, United States",10/18/2021,76,48.7,60.3,43.9,,0,0,0,19.4,155.54,28.4,9.9,0,51.4,Clear
+"Moorhead, MN, United States",10/19/2021,57.7,43.2,49.1,38.4,,0,0,0,22.9,223.13,31.2,9.8,61.2,76.68,Partially cloudy
+"Moorhead, MN, United States",10/20/2021,46.6,37,43.5,27.4,,0.01,0,0,22.8,28,35.3,9.9,84.1,67.75,"Rain, Overcast"
+"Moorhead, MN, United States",10/21/2021,45.8,26.2,34.4,17.5,,0,0,0,12.4,318.04,19.5,9.9,0,69.57,Clear
+"Moorhead, MN, United States",10/22/2021,47.6,29.2,36.1,25.1,,0,0,0,9.3,176.88,,9.9,21.4,67.47,Clear
+"Moorhead, MN, United States",10/23/2021,49.9,24.8,35.9,19,,0,0,0,10.5,66.83,15,9.9,7.8,74.2,Clear
+"Moorhead, MN, United States",10/24/2021,47.6,32.3,41.1,27.7,,0,0,0,9.9,67.21,18.3,9.9,63.4,68.89,Partially cloudy
+"Moorhead, MN, United States",10/25/2021,52,31.4,42.2,25.7,,0,0,0,16.1,113.25,24.2,9.9,14.6,65.41,Clear
+"Moorhead, MN, United States",10/26/2021,56.8,43,49.9,35.5,,0,0,0,31.3,138.17,45.5,9.9,31.8,49.26,Partially cloudy
+"Moorhead, MN, United States",10/27/2021,53,46.9,48.5,41.2,,0.71,0,0,20.5,133.92,33.8,7.4,93.7,84.27,"Rain, Overcast"
+"Moorhead, MN, United States",10/28/2021,53.8,33.8,45.2,30.3,,0,0,0,16,238.75,21.9,6.6,38.6,86.99,Partially cloudy
+"Moorhead, MN, United States",10/29/2021,56.6,28.5,41.8,25.9,,0,0,0,13.5,177.08,21.9,7.3,2,76.34,Clear
+"Moorhead, MN, United States",10/30/2021,46.9,34.7,43.2,29,,0,0,0,24.5,254.88,33.3,9.9,24.2,74.32,Clear
+"Moorhead, MN, United States",10/31/2021,44.8,29.2,36.5,21.3,,0,0,0,21.6,296.38,30.9,9.9,49.5,65.9,Partially cloudy
+"Moorhead, MN, United States",11/01/2021,42.7,30,36.6,22.7,,0,0,0,14,309.17,18.3,9.9,84.5,64.44,Overcast
+"Moorhead, MN, United States",11/02/2021,40.9,27.4,34.2,27,,0,0,0,9,227.08,,9.9,76.1,66.31,Overcast
+"Moorhead, MN, United States",11/03/2021,46,22.4,33.1,18.2,,0,0,0,10.9,175.96,13.9,9.9,1,66.23,Clear
+"Moorhead, MN, United States",11/04/2021,52.9,28.2,38.9,21.2,,0,0,0,17,153.46,27.7,9.4,0,73.59,Clear
+"Moorhead, MN, United States",11/05/2021,54.3,37.2,44.9,28.4,,0.01,0,0,17.1,179.92,29.1,9.1,38.8,81.39,"Rain, Partially cloudy"
+"Moorhead, MN, United States",11/06/2021,62.2,38.8,48.9,34,,0,0,0,11.4,193.29,17.2,9.9,1.1,62.85,Clear
+"Moorhead, MN, United States",11/07/2021,57.7,34.5,46,34.8,,0,0,0,8.4,207.76,,9.9,0,71.23,Clear
+"Moorhead, MN, United States",11/08/2021,52.9,30.6,39.4,25.7,,0,0,0,7.5,267.29,,9.9,1.7,66.14,Clear
+"Moorhead, MN, United States",11/09/2021,53.9,29.1,39.5,21,,0,0,0,8.4,180,12.8,9.9,2.6,63.05,Clear
+"Moorhead, MN, United States",11/10/2021,47.1,41.6,44.1,35.7,,0.58,0,0,17,185,28.8,7.4,90.9,71.52,"Rain, Overcast"
+"Moorhead, MN, United States",11/11/2021,41.3,30,35.3,15,,0.06,0.85,0.85,29.7,299,44.2,7.3,71.3,86.63,"Snow, Partially cloudy"
+"Moorhead, MN, United States",11/12/2021,30,26.9,28.6,9.7,,0.05,0.51,1.36,40.5,337.63,54,5.5,89.4,85.92,"Snow, Overcast"
+"Moorhead, MN, United States",11/13/2021,28.9,26.2,27.5,11.7,,0.19,2.59,1.97,23.2,215.58,33.3,7,90.5,83.01,"Snow, Overcast"
+"Moorhead, MN, United States",11/14/2021,25.9,24,24.7,11.5,,0,0.76,2.37,21.3,242.58,24.1,9.9,91,84.18,"Snow, Overcast"
+"Moorhead, MN, United States",11/15/2021,34,25,30.6,16,,0.02,0.64,3.02,16.1,130.33,25.3,9.4,79.2,79.88,"Snow, Overcast"
+"Moorhead, MN, United States",11/16/2021,39.4,34,36.5,22.7,,0,0,2.52,23.7,181.58,39.2,9.6,18,79.17,Clear
+"Moorhead, MN, United States",11/17/2021,37.2,26.2,32.1,11.8,,0,0.47,1.19,33.1,269.38,45.5,9.6,71.4,64.3,"Snow, Partially cloudy"
